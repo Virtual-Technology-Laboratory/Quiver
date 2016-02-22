@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{52BA0C5E-7026-B289-6373-B0E18418889C}") = "Quiver", "Assembly-CSharp.csproj", "{38BE3EE6-8A46-C444-08CC-0BEC6D03D05B}"
+EndProject
+Project("{52BA0C5E-7026-B289-6373-B0E18418889C}") = "Quiver", "Assembly-CSharp-Editor.csproj", "{C53BADF4-2168-1F37-2705-A11E60DC07CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38BE3EE6-8A46-C444-08CC-0BEC6D03D05B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38BE3EE6-8A46-C444-08CC-0BEC6D03D05B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38BE3EE6-8A46-C444-08CC-0BEC6D03D05B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38BE3EE6-8A46-C444-08CC-0BEC6D03D05B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C53BADF4-2168-1F37-2705-A11E60DC07CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C53BADF4-2168-1F37-2705-A11E60DC07CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C53BADF4-2168-1F37-2705-A11E60DC07CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C53BADF4-2168-1F37-2705-A11E60DC07CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
